@@ -30,6 +30,8 @@ export default function TestComponent() {
   const randomEmail = faker.internet.email();
   const randomAvatar = faker.internet.avatar();
 
+  // mergeTest
+
   return (
     <div
       className={`flex h-[100dvh] w-full flex-col items-center justify-center gap-y-4 text-2xl text-white ${clsx(
