@@ -75,7 +75,7 @@ day.js | faker.js | clsx
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/gaebalin-front
+$ git clone https://github.com/osh6006/gaebalin-front
 
 # Access
 $ cd gaebalin-front
